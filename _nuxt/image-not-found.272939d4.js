@@ -1,0 +1,1 @@
+function a(s,t=!1){return t?window.location.host.includes("txparts.com")?"https://admin.txparts.com/"+s:"https://admin.txpartscanada.ca/"+s:"/images/"+s}const e=""+globalThis.__publicAssetsURL("images/image-not-found.png");export{e as _,a as g};
